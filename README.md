@@ -1,6 +1,6 @@
 #Treinamento referente a linguagem java e framework Spring.
 
-Utilizano java na versão 11.
+Utilizando java na versão 11.
 
 spring boot 3.3.3.
 
