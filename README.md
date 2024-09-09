@@ -1,5 +1,7 @@
 #Treinamento referente a linguagem java e framework Spring.
 
+Foram feitos dois pequenos testes e uma api de gestao de tarefas.
+
 Utilizando java na versão 11.
 
 spring boot 3.3.3.
